@@ -1,4 +1,4 @@
-# ChIPseqQC
+# ChIPseqQC 1,2
 
 An R package for calculating and visualising ChIP-seq quality control metrics.
 
